@@ -113,7 +113,7 @@ export default function TodoPage() {
     <div className="min-h-screen bg-gray-100 flex justify-center items-center p-4">
       <div className="bg-white rounded-3xl shadow-lg p-10 w-full max-w-md">
         <h1 className="text-2xl font-bold text-center text-pink-600 mb-6 font-serif">
-          Nany's Todo App
+        Nany&apos;s Todo App
         </h1>
 
         {/* Input + Button */}
